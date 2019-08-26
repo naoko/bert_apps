@@ -108,3 +108,6 @@ venv
 
 # artifacts
 models
+
+# ide
+.vscode/
